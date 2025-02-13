@@ -10,9 +10,11 @@ Disease Detection: Identifies a variety of leaf diseases using image data.
 Treatment Suggestions: Integrated with the Gemini API to provide tailored treatment recommendations for the diagnosed diseases.
 User-Friendly Interface: Designed for accessibility and ease of use, catering to both agricultural experts and laypersons.
 Objectives:
+
 Improve agricultural productivity by early detection of plant diseases.
 Provide actionable insights for disease management through API-based treatment suggestions.
 Tools and Technologies:
+
 Deep Learning: ResNet50 model
 API Integration: Gemini API for disease treatment
 Python: Core language for development
