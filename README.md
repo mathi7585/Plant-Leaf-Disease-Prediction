@@ -1,6 +1,7 @@
 # Plant-Leaf-Disease-Prediction
 
 Plant Disease Detection System 🌿
+
 This project utilizes advanced deep learning techniques to classify plant leaf diseases, aiding farmers and agriculturists in ensuring crop health. The model is built using a ResNet50 architecture, known for its high accuracy in image classification tasks.
 
 Key Features:
