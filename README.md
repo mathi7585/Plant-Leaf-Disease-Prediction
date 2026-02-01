@@ -18,3 +18,4 @@ API Integration: Gemini API for disease treatment
 Python: Core language for development
 This project is a step towards smart agriculture, empowering farmers with AI-driven solutions.
 
+
