@@ -8,7 +8,6 @@ app = Flask(__name__)
 # Load your trained model
 model = load_model('/Users/mathim/Downloads/leaf/models/disease_model.h5')
 
-
 # Define disease classes and treatments
 disease_classes = {
         0: {'name': 'Pepper__bell___Bacterial_spot', 'treatment': 'Copper-Fungicide'},
