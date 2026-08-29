@@ -3,7 +3,6 @@ from keras.models import load_model
 from keras.preprocessing import image
 import numpy as np
 import os
-
 app = Flask(__name__)
 # Load your trained model
 model = load_model('/Users/mathim/Downloads/leaf/models/disease_model.h5')
